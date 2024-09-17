@@ -23,7 +23,6 @@ public class Main {
                 case (3) -> RemoveTask();
             }
         }
-
     }
 
 
