@@ -63,7 +63,6 @@ public class Main {
                 FW.close();
             }
 
-
         } catch (IOException e) {
             System.out.println("Error can't save to file");
         }
