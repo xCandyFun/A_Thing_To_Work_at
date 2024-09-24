@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class Main {
 
     static Scanner sc = new Scanner(System.in);
-
     static Integer Id = 0;
     static String newTask;
 
